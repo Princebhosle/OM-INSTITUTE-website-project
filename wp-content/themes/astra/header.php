@@ -21,7 +21,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 <?php astra_head_top(); ?>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-	google-site-verification=3N-4y4DH4xN9GRJmhyc4E7wLWvNOpAXsdgDIoGWucNs
 <?php 
 if ( apply_filters( 'astra_header_profile_gmpg_link', true ) ) {
 	?>
